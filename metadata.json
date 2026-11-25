@@ -1,0 +1,6 @@
+{
+  "name": "OHUZE | Web3 Global Holding & Investment Ecosystem",
+  "description": "Holding multisectorial global de inversión que sincroniza Real Estate, tecnología blockchain, seguros y respaldo legal multijurisdiccional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
