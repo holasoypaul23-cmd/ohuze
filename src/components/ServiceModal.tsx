@@ -119,7 +119,7 @@ export const ServiceModal: React.FC<ServiceModalProps> = ({
   const currentConfig = langData.divisions[divisionId];
   const currentIconData = divisionIcons[divisionId];
   const isLegalDivision = divisionId === 'legales';
-  const NEXORA_URL = 'https://nexora17-5cn9sgp7r-mr-df77.vercel.app/';
+  const NEXORA_URL = 'https://nexora17-ebon.vercel.app/';
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
